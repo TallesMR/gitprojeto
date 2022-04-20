@@ -34,6 +34,10 @@ git commit -m - Voce digita o titulo do commit.
 
 git branch -M "main" - muda o nome master para main
 
+git remote add origin https://link do repositorio (atencao o remote so se usa uma vez por repositorio)
+
+git push -u origin main
+
 --------------------------------------------------
 
 CONCEITO DE BRANCH
