@@ -1,0 +1,66 @@
+ALGUNS TERMOS DE GIT\GITHUB
+
+Branch - É uma ramificação do conteudo principal do projeto.
+
+Commit - Postar o codigo atualizado no github.
+
+Merge  - Junção da brench com o conteudo principal (Mesclar o conteudo).
+
+Remote - Responsavel por mesclar o codigo e postar no git.
+
+Push   - Coloca o commit da maquina no remote
+
+Pull   - Pucha o que esta no repositorio do GitHub.
+
+cd - se usa pra acessar paginas
+
+commands
+
+Basicamente sempre que voce quiser postar algo o padrao ira se repetir
+
+Primeiro vc coloca o arquivo em stand by, ai vc da um git status e ve se foi depois se da um git commit -m pra dar um titulo para aquele commit e depois se vai mandar ele pro git hub utilizando git push origin main (link).
+
+--------------------------------------------------
+
+Git init - Se inicializa um repositorio git vazio.
+
+git add  - Manda os arquivos para "standing" ou esperando(se vai adicionando pasta por paste)
+
+git add . - Vai enviar todos os arquivos novos e que foram mechidos.
+
+git status - Da um feedback dos arquivos se o arquivo tiver verdinho ele foi adicionado para a area de standing.
+
+git commit -m - Voce digita o titulo do commit.
+
+git branch -M "main" - muda o nome master para main
+
+--------------------------------------------------
+
+CONCEITO DE BRANCH
+
+git checkout -b "novo-botao" - cria uma nova branch
+
+quando voce quiser ficar alternando entre as branch por exemplo a branch main e a branch botao vc usa o command
+
+git checkout nome da branch
+
+--------------------------------------------------
+
+Margin
+
+git merge nome da branch
+
+--------------------------------------------------
+
+Clone
+
+para pegar os projetos de outras pessoas o command é
+
+git clone linkdoprojeto.
+
+
+
+
+
+
+
